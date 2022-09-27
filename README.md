@@ -1,0 +1,2 @@
+# Lab2
+I chose a tower defence simulation because there is a big variety of entities. So i described more objects like the main base, tower, troops, spells and money. In this simulation i created more types of troops and towers, so i had to describe them. The may lojik of this simulation is that yo have a base to defend it and you build towers and use spells to defend your base from the troops that are atacking it. Each spell and tower cost some money, so the playert will have to manage it wisely.
