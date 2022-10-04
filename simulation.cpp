@@ -37,6 +37,19 @@ public:
     char target;
 };
 
+class Hero
+{
+private:
+    int hp, range, damage, speed, as;
+    char target;
+};
+
+class weather
+{
+private:
+    int slow, damage, range, arm_r, as_r;
+};
+
 int main()
 {
     Base base;
